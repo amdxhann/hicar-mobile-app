@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "451012685139",
+    "project_id": "hicar-60288",
+    "storage_bucket": "hicar-60288.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451012685139:android:10e1209df0c45dbef505a6",
+        "android_client_info": {
+          "package_name": "com.example.rentcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451012685139-vcs0iplnfd4e8lhftensrom29laot2n3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rentcar",
+            "certificate_hash": "a5832ac06540d6ba303392a2da6a82366b4b8b83"
+          }
+        },
+        {
+          "client_id": "451012685139-6tcu7kcbd3f8flk8ttkogd1njjurbuo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDXIi2GNwD148OPe3anJrvGuNtQKs5Keo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451012685139-6tcu7kcbd3f8flk8ttkogd1njjurbuo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
